@@ -1,3 +1,13 @@
 [
-    
+  {
+    "id": 2,
+    "titulo": "Hacer ejercicio",
+    "descripcion": "Correr 5 km en el parque",
+    "completado": true
+  },
+  {
+    "titulo": "Nueva tarea",
+    "descripcion": "Descripción de la nueva tarea",
+    "id": 3
+  }
 ]
